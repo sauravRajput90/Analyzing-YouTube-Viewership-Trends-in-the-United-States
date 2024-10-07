@@ -1,4 +1,4 @@
-# U.S. YouTube Videos
+# Analyzing YouTube Viewership Trends in the United States
 
 ## OVERVIEW OF THE TASK 
 
